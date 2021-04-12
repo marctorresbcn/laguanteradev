@@ -3,7 +3,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 
 ## Indice
 
-- [Sistemas] (#-conocimientos-sistemas)
+- 💽  [Sistemas](#-conocimientos-sistemas)
 
 ---
 
