@@ -12,8 +12,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 ## <a id="-conocimientos-sistemas" /> SISTEMAS
 ---
 
-### Copias de seguridad
-Copias de seguridad en Amazon S3
+### Copias de seguridad en Amazon S3
 
 **URL**: https://codetakers.team/blog/copias-seguridad-amazon-s3
 
