@@ -10,7 +10,6 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 ---
 
 ## <a id="-conocimientos-sistemas" /> SISTEMAS
----
 
 ### Copias de seguridad en Amazon S3
 
@@ -22,7 +21,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 
 --
 ## <a id="-conocimientos-docker" /> DOCKER
----
+
 ### Setup Wordpress with Docker (MySQL + Wordpress + phpMyAdmin)
 
 🎥 **URL**: https://www.youtube.com/watch?v=pkp_Dr_4pOA
