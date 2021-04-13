@@ -6,7 +6,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 ## Indice
 
 - 💽  [Sistemas](#-conocimientos-sistemas)
-
+- 🐳  [Docker](#-conocimientos-docker)
 ---
 
 ## <a id="-conocimientos-sistemas" /> SISTEMAS
@@ -19,3 +19,9 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 ### Check if port is in use on Linux
 
 **URL**: https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/
+
+--
+## <a id="-conocimientos-sistemas" /> SISTEMAS
+---
+### Setup Wordpress with Docker
+🎥 **URL**: https://www.youtube.com/watch?v=pkp_Dr_4pOA
