@@ -7,6 +7,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 
 - 💽  [Sistemas](#-conocimientos-sistemas)
 - 🐳  [Docker](#-conocimientos-docker)
+- 🧰  [Varios](#-conocimientos-varios)
 ---
 
 ## <a id="-conocimientos-sistemas" /> SISTEMAS
@@ -31,3 +32,10 @@ SET autocommit=0 ; source /paht/file/database.sql ; COMMIT ;
 ### Setup Wordpress with Docker (MySQL + Wordpress + phpMyAdmin)
 
 🎥 **URL**: https://www.youtube.com/watch?v=pkp_Dr_4pOA
+
+--
+## <a id="-conocimientos-varios" /> VARIOS
+
+### Cambiar joystick digital PS4
+
+🎥 **URL**: https://www.youtube.com/watch?v=ICZNkC_-_-E
