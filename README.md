@@ -19,7 +19,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 
 **URL**: https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/
 
-### MAM PRO LOAD DATABASE FROM TERMINAL
+### MAM PRO load database from terminal
 
 /Applications/MAMP/Library/bin/mysql --host=localhost -uroot -proot
 
