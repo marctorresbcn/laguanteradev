@@ -19,6 +19,12 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 
 **URL**: https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/
 
+### MAM PRO LOAD DATABASE FROM TERMINAL
+
+/Applications/MAMP/Library/bin/mysql --host=localhost -uroot -proot
+
+SET autocommit=0 ; source /paht/file/database.sql ; COMMIT ;
+
 --
 ## <a id="-conocimientos-docker" /> DOCKER
 
