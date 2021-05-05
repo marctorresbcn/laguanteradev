@@ -7,6 +7,7 @@ Enlaces de cosas que o bien se me olvidan siempre o bien tengo pendiente de revi
 
 - 💽  [Sistemas](#-conocimientos-sistemas)
 - 🐳  [Docker](#-conocimientos-docker)
+- 🧰  [Frontend](#-conocimientos-frontend)
 - 🧰  [Varios](#-conocimientos-varios)
 ---
 
@@ -32,6 +33,13 @@ SET autocommit=0 ; source /paht/file/database.sql ; COMMIT ;
 ### Setup Wordpress with Docker (MySQL + Wordpress + phpMyAdmin)
 
 🎥 **URL**: https://www.youtube.com/watch?v=pkp_Dr_4pOA
+
+--
+## <a id="-conocimientos-frontend" /> FRONTEND
+
+### Frontend Checklist: Para validar que no te has dejado nada antes de lanzar tu proyecto.
+
+**URL**: https://frontendchecklist.io/
 
 --
 ## <a id="-conocimientos-varios" /> VARIOS
